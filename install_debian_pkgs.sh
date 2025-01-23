@@ -7,4 +7,6 @@ sudo apt install git \
 	python3-venv \
 	python3-dev \
 	python3-pip \
+	dnsutils \
+	net-tools \
 
