@@ -9,4 +9,9 @@ sudo apt install git \
 	python3-pip \
 	dnsutils \
 	net-tools \
+	libnss-mdns \
+	avahi-utils \
+
+# install NodeJS
+# https://nodejs.org/en/download
 
