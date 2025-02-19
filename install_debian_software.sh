@@ -3,4 +3,5 @@ sudo apt install \
 	vlc \
 	vim \
 	gedit \
+	screen \
 
